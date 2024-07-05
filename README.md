@@ -9,7 +9,9 @@
   <li><b>Residence: Germany</b></li>
   <li><b>Hobbys: Tech Stuff, Programming</b></li>
   <li><b>Upcoming: Database Manager</b></li>
-  <br><br><br><br><br><br>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40"/>
+  <br><br><br><br>
 </div>
 
 <div align="center">
