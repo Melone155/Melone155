@@ -1,5 +1,5 @@
 <div>
-<h2 align="center">⭐ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ⭐</h2>
+<h2 align="center">⭐ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40"/> ⭐</h2>
 <div align="center">
   <img src="assets/Kirito.gif" height="270" width="320" align="right">
 </div>
@@ -10,7 +10,6 @@
   <li><b>Hobbys: Tech Stuff, Programming</b></li>
   <li><b>Upcoming: Database Manager</b></li>
   <br><br>
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40"/>
   <br><br><br><br>
 </div>
 
