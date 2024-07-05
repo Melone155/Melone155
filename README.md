@@ -1,52 +1,48 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Melone155!;" />
-</h1>
-
-<h3 align="center">a hobby developer from Germany 🇩🇪</h3>
-
-<br/>
-
+<div>
+<h2 align="center">⭐ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ⭐</h2>
 <div align="center">
- 
-🌱 I'm currently learning FullStack development
-
-⚡ Always busy because of too many projects
-
- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-
- </div>
-
-<hr/>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://github.com/Melone155/Melone155/blob/main/pictures/png-transparent-powershell-microsoft-windows-management-instrumentation-computer-icons-microsoft-removebg-preview.png?raw=true" height="30" alt="c logo"  />
-  <img width="12" />
+  <img src="assets/Kirito.gif" height="270" width="320" align="right">
+</div>
+<div align="left">
+  <li><b>Name: Max</b></li>
+  <li><b>Age: 19 y.o</b></li>
+  <li><b>Residence: Germany</b></li>
+  <li><b>Hobbys: Tech Stuff, Programming</b></li>
+  <li><b>Upcoming: Database Manager</b></li>
+  <br><br><br><br><br><br>
 </div>
 
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/maximilian-wolf-89532a28b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+    <h2>📚 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 📚</h2>
+</div>
+<div align="center">
+    <img src="assets/Knowledge.gif" alt="Knowledge">
+     <br><br>
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Machine-Maker/Machine-Maker/output/snake.svg" alt="Snake animation" />
+<div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,powershell" />
+  </a>
+</p>
 </div>
 
-###
+<h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/maximilian-wolf-89532a28b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
+  </a>
+  <a href="https://github.com/Melone145">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'" target="_blank" rel="noopener noreferrer">
+  </a>
+  <a href="https://discord.com/users/346693214570283009" >
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer">
+  </a>
+  <br>
+  <img src=assets/SAO.gif width="400" height="auto">
+</div>
 
-<hr/>
-
-<br/>
-<br/>
+<h2 align="center">👋 またね 👋</h2>
+<div align="center">
+  <img src="assets/hi_goodbye.gif"/>
