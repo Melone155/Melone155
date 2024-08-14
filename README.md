@@ -8,7 +8,7 @@
   <li><b>Age: 19 y.o</b></li>
   <li><b>Residence: Germany</b></li>
   <li><b>Hobbys: Tech Stuff, Programming</b></li>
-  <li><b>Upcoming: Database Manager</b></li>
+  <li><b>Upcoming: ...</b></li>
   <br><br>
   <br><br><br><br>
 </div>
