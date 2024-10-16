@@ -34,9 +34,6 @@
   <a href="https://www.linkedin.com/in/maximilian-wolf-89532a28b/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
-  <a href="https://github.com/Melone145">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'" target="_blank" rel="noopener noreferrer">
-  </a>
   <a href="https://discord.com/users/346693214570283009" >
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
