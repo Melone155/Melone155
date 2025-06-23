@@ -5,7 +5,7 @@
 </div>
 <div align="left">
   <li><b>Name: Max</b></li>
-  <li><b>Age: 19 y.o</b></li>
+  <li><b>Age: 20 y.o</b></li>
   <li><b>Residence: Germany</b></li>
   <li><b>Hobbys: Tech Stuff, Programming</b></li>
   <li><b>Upcoming: ...</b></li>
