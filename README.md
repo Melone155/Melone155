@@ -8,7 +8,7 @@
   <li><b>Age: 20 y.o</b></li>
   <li><b>Residence: Germany</b></li>
   <li><b>Hobbys: Tech Stuff, Programming</b></li>
-  <li><b>Upcoming: ...</b></li>
+  <li><b>Upcoming: My Own Company</b></li>
   <br><br>
   <br><br><br><br>
 </div>
